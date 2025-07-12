@@ -1,4 +1,4 @@
-# template-empty
+# template-repo
 Template for an empty Github repository
 
 If you wish to support me, feel free to tip here :)
